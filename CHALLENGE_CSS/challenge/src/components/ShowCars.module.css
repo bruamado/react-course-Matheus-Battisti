@@ -1,0 +1,13 @@
+.car_list {
+    display: flex;
+    flex-direction: column;
+}
+
+.car_list li p {
+    display: inline;
+    padding: 100px;
+}
+
+.subtitle {
+    padding-top: 100px;
+}
