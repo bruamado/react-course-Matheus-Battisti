@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "a37e",
+      "name": "Teste",
+      "price": "1234"
+    },
+    {
+      "id": "9e7e",
+      "name": "Miguel",
+      "price": "0.99"
+    },
+    {
+      "id": "3347",
+      "name": "Bruno",
+      "price": "999999999999999999999999999"
+    },
+    {
+      "id": "737b",
+      "name": "aa",
+      "price": "213"
+    },
+    {
+      "id": "d41e",
+      "name": "",
+      "price": ""
+    },
+    {
+      "id": "8036",
+      "name": "11",
+      "price": "22"
+    },
+    {
+      "id": "fee4",
+      "name": "bbbbbbbb",
+      "price": "bbbbbb"
+    },
+    {
+      "id": "378e",
+      "name": "",
+      "price": ""
+    }
+  ]
+}
